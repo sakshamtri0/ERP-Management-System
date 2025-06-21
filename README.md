@@ -1,7 +1,37 @@
-# ERP-Management-System
-Designed and developed a full-stack ERP application to streamline academic management for an educational institution. 
-Constructed role-based dashboards and access levels for admin, faculty, and students to enable specific functionalities.
-Actively used by 50+ users, improving process efficiency by 30% through automation of attendance, data entry, and 
-updates.
-Implemented secure login authentication and real-time data synchronization.
-Produced attendance tracking with over 90% accuracy, enhancing transparency and reducing manual workload.
+ERP Management System
+A full-stack ERP (Enterprise Resource Planning) application designed to streamline academic and institutional management for educational organizations.
+
+✨ Features
+🎯 Role-based dashboards for Admin, Faculty, and Students
+
+✅ Secure login authentication system
+
+📊 Attendance tracking with over 90% accuracy
+
+🔄 Real-time data synchronization and updates
+
+📈 Reporting modules for events, bookings, and services
+
+📂 Automated workflows for user registration and permissions
+
+🧾 Invoice generation and service management
+
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP
+
+Database: MySQL
+
+📁 Project Structure
+Some key files and modules include:
+
+dashboard.php – Role-specific dashboard
+
+manage_event.php – Event management system
+
+new_bookings.php – New booking functionality
+
+user_permission.php – Permission control interface
+
+invoice_generating.php – Automated invoice generation
